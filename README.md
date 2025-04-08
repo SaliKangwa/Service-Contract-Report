@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This project involves developing a Power BI report to monitor contract approvals, Contract Officer performance, and overall contract costs. The report provides a centralized dashboard for tracking key contract metrics, enabling better oversight and management. Additionally, an SSRS report was created to support contract lifecycle management by automating alerts for upcoming renewals, expiring contracts, and expired contracts. The system is designed to enhance contract visibility and streamline administrative processes.
+The project involves the development of a Power BI report to monitor contract approvals, Contract Officer performance, and overall contract costs. The report provides a centralized dashboard for tracking key contract metrics, enabling enhanced oversight and informed decision-making. In addition, an SSRS report was developed to support contract lifecycle management by automating alerts for upcoming renewals, expiring contracts, and expired agreements. The system is designed to improve contract visibility and streamline administrative processes.
 <br />
 
 
